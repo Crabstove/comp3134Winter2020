@@ -1,0 +1,63 @@
+Domain Name: archlinux.org
+
+Top Level Domain: ORG (Organization)
+
+DNS Lookup
+
+IP Address: 138.201.81.199
+
+Geolocation: DE (Germany), N/A, N/A, N/A N/A - Google Maps
+
+Reverse DNS: apollo.archlinux.org
+
+
+Domain Name: elementary.io
+
+Top Level Domain: IO (British Indian Ocean Territory)
+
+DNS Lookup
+
+IP Address: 104.28.4.44
+
+Geolocation: US (United States), N/A, N/A, N/A N/A - Google Maps
+
+Reverse DNS entry: not found
+
+
+Domain Name: mxlinux.org
+
+Top Level Domain: ORG (Organization)
+
+DNS Lookup
+
+IP Address: 104.27.131.226
+
+Geolocation: US (United States), N/A, N/A, N/A N/A - Google Maps
+
+Reverse DNS entry: not found
+
+
+Domain Name: getsol.us
+
+Top Level Domain: US (United States)
+
+DNS Lookup
+
+IP Address: 129.21.198.70
+
+Geolocation: US (United States), NY, New York, 14623 Rochester - Google Maps
+
+Reverse DNS: farnsworth.rit.edu
+
+
+Domain Name: opensuse.org
+
+Top Level Domain: ORG (Organization)
+
+DNS Lookup
+
+IP Address: 130.57.66.19
+
+Geolocation: US (United States), UT, Utah, 84606 Provo - Google Maps
+
+Reverse DNS entry: not found
