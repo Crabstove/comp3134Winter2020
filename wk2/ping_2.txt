@@ -1,0 +1,12 @@
+$ ping  138.197.141.86
+
+Pinging 138.197.141.86 with 32 bytes of data:
+Reply from 138.197.141.86: bytes=32 time=12ms TTL=56
+Reply from 138.197.141.86: bytes=32 time=18ms TTL=56
+Reply from 138.197.141.86: bytes=32 time=22ms TTL=56
+Reply from 138.197.141.86: bytes=32 time=9ms TTL=56
+
+Ping statistics for 138.197.141.86:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 22ms, Average = 15ms
